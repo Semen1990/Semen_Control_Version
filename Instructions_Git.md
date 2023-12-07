@@ -108,6 +108,14 @@ git checkout -b <new_branch_name>
 
 Эта команда создает новую ветку (<new_branch_name>) и автоматически переключает вас на неё.
 
+<ins>Удаление ветки</ins>
+
+Введите команду
+
+```sh
+git branch -d <branch_name>
+```
+
 
 ## Команда git diff
 ---
