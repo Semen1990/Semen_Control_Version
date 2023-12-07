@@ -161,6 +161,9 @@ git diff myfile.txt  # Просмотр изменений для конкрет
 
 <details>
   <summary>Развернуть</summary>
+<span style="color:orange">Это основы работы с Git. </span>
 
-Это основы работы с Git. Дополнительную информацию и документацию по командам Git можно найти на [официальном сайте Git.](https://git-scm.com/doc "https://git-scm.com/doc") Удачи с использованием Git!
+Дополнительную информацию и документацию по командам Git можно найти на [официальном сайте Git.](https://git-scm.com/doc "https://git-scm.com/doc")
+<span style="color:orange">Удачи с использованием Git!!!</span>
+
 </details>
